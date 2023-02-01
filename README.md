@@ -35,6 +35,11 @@ The following python packages are used for a software:
 
 [customtkinter documentation](https://github.com/TomSchimansky/CustomTkinter/wiki/Packaging)
 
+## Some known issues/bugs:
+- If we change app icon to yt.ico and create a .exe, it is not working.
+- When we insert a link, YouTube video title should be displayed on the top of input field, but currently it is appearing late.
+- When we click on download button, percentage progress bar should start immediately, but currently it is not loading immediately.
+
 ## Like this project?
 
 If you are feeling generous, buy me a tea! - [Donate on PayPal](https://www.paypal.com/paypalme/shub1602)
