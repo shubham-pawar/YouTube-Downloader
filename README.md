@@ -22,7 +22,7 @@ Software is created using python programing language.
 - git clone https://github.com/shubham-pawar/YouTube-Downloader.git
 - Open main.py file in your favorite editor
 - import the python packages using pip3:
-> pip3 install tk
+> pip3 install tkinter
 
 > pip3 install customtkinter
 
